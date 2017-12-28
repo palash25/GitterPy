@@ -12,7 +12,7 @@ Like a lot of developers I use gitter on a daily basis, but I also hate using it
 - If you have a slow internet connection
 
 ## Wanna see it in action?
-![cowaps in action](https://raw.githubusercontent.com/palash25/gitter-cli/master/assets/gitterpy.gif)
+![GitterPy in action](https://github.com/palash25/gitter-cli/blob/master/assets/gitterpy.gif)
 
 ## Requirements
 - **Click**
