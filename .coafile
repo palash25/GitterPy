@@ -1,4 +1,0 @@
-[cli]
-bears = SpaceConsistencyBear
-files = gitter.py
-use_spaces = True

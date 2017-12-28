@@ -1,1 +1,7 @@
+# Ignore virtualenv directory
 genv/
+GitterCLI.egg-info/
+
+# Ignore files with extensions
+*.py.orig
+.coafile
