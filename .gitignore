@@ -2,6 +2,7 @@
 genv/
 GitterCLI.egg-info/
 
-# Ignore files with extensions
-*.py.orig
+# Ignore files
+gitter.py.orig
 .coafile
+~~Built~~
