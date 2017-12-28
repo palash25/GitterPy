@@ -1,0 +1,12 @@
+#!/home/palash25/Dev/Projects/gitter-cli/gcenv/bin/python3
+# EASY-INSTALL-ENTRY-SCRIPT: 'GitterCLI','console_scripts','gitter'
+__requires__ = 'GitterCLI'
+import re
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(
+        load_entry_point('GitterCLI', 'console_scripts', 'gitter')()
+    )

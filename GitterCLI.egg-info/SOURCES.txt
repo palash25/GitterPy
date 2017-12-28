@@ -1,0 +1,8 @@
+README.md
+cli.py
+GitterCLI.egg-info/PKG-INFO
+GitterCLI.egg-info/SOURCES.txt
+GitterCLI.egg-info/dependency_links.txt
+GitterCLI.egg-info/entry_points.txt
+GitterCLI.egg-info/requires.txt
+GitterCLI.egg-info/top_level.txt
