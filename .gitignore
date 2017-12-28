@@ -1,6 +1,8 @@
 # Ignore virtualenv directory
 genv/
 GitterCLI.egg-info/
+__pycache__/
+
 
 # Ignore files
 gitter.py.orig
